@@ -1,0 +1,53 @@
+{
+  "name": "huangpengfei-js-tools",
+  "version": "0.0.4",
+  "description": "javaScript Tools",
+  "templateInfo": {
+    "name": "default",
+    "typescript": true,
+    "css": "less"
+  },
+  "license": "MIT",
+  "keywords": [
+    "taro",
+    "javaScript",
+    "react",
+    "taro-hooks",
+    "hooks"
+  ],
+  "source": "src/index.ts",
+  "main": "src/index.ts",
+  "umd": "src/index.umd.js",
+  "types": "src/index.d.ts",
+  "files": [
+    "src"
+  ],
+  "scripts": {},
+  "browserslist": [
+    "last 3 versions",
+    "Android >= 4.1",
+    "ios >= 8"
+  ],
+  "author": "huangpengfei",
+  "devDependencies": {
+    "@babel/runtime": "7.7.7",
+    "@taroify/core": "^0.0.29-alpha.2",
+    "@tarojs/components": "3.3.11",
+    "@tarojs/runtime": "3.3.11",
+    "@tarojs/taro": "3.3.11",
+    "core-decorators": "0.20.0",
+    "dayjs": "^1.11.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/ihopefulChina/huangpengfei-js-tools/issues"
+  },
+  "homepage": "https://github.com/ihopefulChina/huangpengfei-js-tools#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihopefulChina/huangpengfei-js-tools.git"
+  },
+  "dependencies": {
+  }
+}
